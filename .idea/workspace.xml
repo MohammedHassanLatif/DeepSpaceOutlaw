@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="500404d2-dae5-4210-9dde-ead6e3559439" name="Default Changelist" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/audio/music/cyborg-ninja-by-kevin-macleod-from-filmmusic-io.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/audio/sndBtnDown.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/audio/sndBtnOver.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/audio/sndExplode0.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/audio/sndExplode1.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/audio/sndLaser.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/1200px-QWERTY_keyboard_diagram.svg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/ArtFavor-Space-Pioneers-155.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/ArtFavor-Space-Pioneers-155.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/enemyShip0NEW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/enemyShip1NEW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/enemyShip2NEW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/ezgif-7-6c588647486d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/phaser-header.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/playerShipNEW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/screenshot1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/screenshot2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/sprBg0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/sprBg1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/sprBtnPlay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/sprBtnPlayDown.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/sprBtnPlayHover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/sprBtnRestart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/sprBtnRestartDown.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/sprBtnRestartHover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/sprEnemy0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/sprEnemy1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/sprEnemy2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/sprExplosion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/sprLaserEnemy0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/sprLaserPlayer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/sprPlayer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/js/entities.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/js/phaser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/js/scenes/sceneGameOver.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/js/scenes/sceneMain.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Space_Shooter/js/scenes/sceneMainMenu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Space_Shooter/assets/images/SpaceShooterEmblem.png" beforeDir="false" afterPath="$PROJECT_DIR$/Space_Shooter/assets/images/SpaceShooterEmblem.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Space_Shooter/html/Design.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Space_Shooter/html/Home.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Space_Shooter/html/Play.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Space_Shooter/html/Team.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Space_Shooter/html/design.html" beforeDir="false" afterPath="$PROJECT_DIR$/Space_Shooter/html/design.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Space_Shooter/html/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/Space_Shooter/html/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Space_Shooter/html/play.html" beforeDir="false" afterPath="$PROJECT_DIR$/Space_Shooter/html/play.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Space_Shooter/html/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/Space_Shooter/html/team.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Space_Shooter/js/game.js" beforeDir="false" afterPath="$PROJECT_DIR$/Space_Shooter/js/game.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <hideBySeverity>
+      <option value="15" />
+    </hideBySeverity>
+  </component>
+  <component name="ProjectId" id="1jIS383yQcbWuBoRK85jDqVLtH0" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.15.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.14.20" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Space_Shooter/js" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Hassa\Desktop\UNI\Games Development 20\SpaceShooter\Space_Shooter\js" />
+      <recent name="C:\Users\Hassa\Desktop\UNI\Games Development 20\SpaceShooter\Space_Shooter\js\scenes" />
+      <recent name="C:\Users\Hassa\Desktop\UNI\Games Development 20\SpaceShooter\Space_Shooter\html" />
+      <recent name="C:\Users\Hassa\Desktop\UNI\Games Development 20\SpaceShooter\Space_Shooter\css" />
+      <recent name="C:\Users\Hassa\Desktop\UNI\Games Development 20\SpaceShooter\Space_Shooter\assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Hassa\Desktop\Games Development 20\SpaceShooter\Space_Shooter\assets\images" />
+      <recent name="C:\Users\Hassa\Desktop\Games Development 20\SpaceShooter\Space_Shooter\js" />
+      <recent name="C:\Users\Hassa\Desktop\Games Development 20\SpaceShooter\Space_Shooter\js\Game\UI" />
+      <recent name="C:\Users\Hassa\Desktop\Games Development 20\SpaceShooter\Space_Shooter\js\Game" />
+      <recent name="C:\Users\Hassa\Desktop\Games Development 20\SpaceShooter\Space_Shooter" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="500404d2-dae5-4210-9dde-ead6e3559439" name="Default Changelist" comment="" />
+      <created>1603489911115</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603489911115</updated>
+      <workItem from="1603489912192" duration="4944000" />
+      <workItem from="1603655722109" duration="595000" />
+      <workItem from="1603662056121" duration="596000" />
+      <workItem from="1603729566970" duration="2066000" />
+      <workItem from="1603746472892" duration="1927000" />
+      <workItem from="1603814021561" duration="9000" />
+      <workItem from="1603814041521" duration="13000" />
+      <workItem from="1603814071965" duration="6886000" />
+      <workItem from="1603958006759" duration="1009000" />
+      <workItem from="1604170563383" duration="3016000" />
+      <workItem from="1604174022976" duration="455000" />
+      <workItem from="1604434256907" duration="4007000" />
+      <workItem from="1604518570175" duration="5653000" />
+      <workItem from="1604570170919" duration="1858000" />
+      <workItem from="1604783532452" duration="4884000" />
+      <workItem from="1604874905395" duration="4716000" />
+      <workItem from="1604880117916" duration="272000" />
+      <workItem from="1604952353975" duration="6433000" />
+      <workItem from="1605043410592" duration="599000" />
+      <workItem from="1605046095211" duration="1686000" />
+      <workItem from="1605136197863" duration="1701000" />
+      <workItem from="1605384293139" duration="11944000" />
+      <workItem from="1605408152334" duration="10866000" />
+      <workItem from="1605734915356" duration="1838000" />
+      <workItem from="1607272934779" duration="6547000" />
+      <workItem from="1607360379277" duration="6122000" />
+      <workItem from="1607449695173" duration="1540000" />
+      <workItem from="1607534217824" duration="1591000" />
+      <workItem from="1607800967787" duration="8180000" />
+      <workItem from="1607887625767" duration="1311000" />
+      <workItem from="1607981359134" duration="5292000" />
+      <workItem from="1609177716247" duration="5773000" />
+      <workItem from="1609617635821" duration="1361000" />
+      <workItem from="1609696610856" duration="7325000" />
+      <workItem from="1609869521436" duration="610000" />
+      <workItem from="1609949642202" duration="1795000" />
+      <workItem from="1610137494796" duration="2209000" />
+      <workItem from="1610232039762" duration="19423000" />
+      <workItem from="1610289646646" duration="298000" />
+      <workItem from="1610289963245" duration="24448000" />
+      <workItem from="1610394097639" duration="7689000" />
+      <workItem from="1610487656389" duration="1130000" />
+      <workItem from="1610568643791" duration="4499000" />
+      <workItem from="1610744632232" duration="50000" />
+      <workItem from="1610744715093" duration="1217000" />
+      <workItem from="1610844358118" duration="514000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

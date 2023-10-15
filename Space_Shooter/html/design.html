@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<title>Games Design</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href= "https://fonts.googleapis.com/css2?family=Roboto&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Itim&family=Roboto&display=swap">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<script src="../js/WebPageScript.js"></script>
+
+<style>
+    body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto Light", sans-serif}
+    .w3-bar,h1,button {font-family: "Roboto Thin", sans-serif}
+</style>
+<body>
+
+<!--- Return to Top button --->
+<div class="w3-bottom">
+    <div class="w3-right">
+        <a class="w3-button w3-padding-medium w3-right-align w3-red"
+           onclick="topFunction()">Return to Top</a>
+    </div>
+</div>
+
+<!-- Navbar -->
+<div class="w3-top">
+    <div class="w3-bar w3-yellow w3-card w3-left-align w3-large">
+        <a class="w3-bar-item w3-button w3-hide-medium w3-hide-large w3-right w3-padding-large w3-hover-white w3-large w3-red" href="javascript:void(0);" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
+        <a href="home.html" class="w3-bar-item w3-button w3-padding-large w3-hover-white">Home</a>
+        <a href="play.html" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Play</a>
+        <a href="design.html" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-white">Design</a>
+        <a href="team.html" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">The Team</a>
+    </div>
+</div>
+
+<!-- Header -->
+<header class="w3-container w3-black w3-center">
+
+</header>
+
+<!-- Overview Section -->
+<div class="w3-row-padding w3-padding-64 w3-container w3-black">
+    <div class="w3-content">
+        <div class="w3-twothird w3-text-white">
+            <h1>Overview</h1>
+
+            <h5 class="w3-padding-32">
+                Deep Space Outlaw is an endless 2D top-down shooter set in deep space. Being wanted for many serious crimes,
+                the player has no other option but to take down as many law enforcement ships as possible before they get
+                taken down themselves.
+            </h5>
+
+            <p class="w3-text-white"></p>
+        </div>
+
+        <div class="w3-third w3-center">
+            <img src="../assets/images/SpaceShooterEmblem.png" height="350" width="500">
+        </div>
+    </div>
+</div>
+
+<!-- Controls Section -->
+<div class="w3-row-padding w3-black w3-padding-64 w3-container">
+    <div class="w3-content">
+        <div class="w3-third w3-left">
+            <img src="../assets/images/1200px-QWERTY_keyboard_diagram.svg.png" height="350" width="600">
+        </div>
+        <div class="w3-padding-30 w3-third w3-right">
+
+            <h1>Controls</h1>
+            <h5 class="w3-padding-32">
+                The player moves their ship with WASD and uses the
+                Space Bar to shoot projectiles. All buttons in the
+                game are activated via mouse clicks.
+            </h5>
+
+            <p class="w3-text-grey"></p>
+        </div>
+    </div>
+</div>
+
+<!-- Gameplay Section -->
+<div class="w3-row-padding w3-padding-64 w3-container w3-black">
+    <div class="w3-content">
+        <div class="w3-twothird w3-text-white">
+
+            <h1>Gameplay</h1>
+            <h5 class="w3-padding-32">
+                Up 2 players can play at once in local co-op, where both players use the keyboard. Player 1 uses the W, A, S, D keys to move and Spacebar to attack in the direction they are facing.
+                Player 2 uses the Arrow keys on the NumPad to move and 0 on the NumPad to attack. As the player(s) progress through the spaceGame the enemy and boss ships on the screen will start to appear more frequently, therefore the player(s) is only required to judge the timing of their shots in front of the respawning ships.
+                If the player(s) misjudges the timing of their shot or crashes into the enemy after three lives, there ship will be destroyed. The player(s) will have to start from the beginning if after three lives have been lost.
+                To win the spaceGame you must defeat the Romulan Republican Force enemies and get Mr Spock safely to Romulus to broker the peace treaty between the Federation and the Romulan Empire!
+            </h5>
+
+            <p class="w3-text-white"></p>
+        </div>
+
+        <div class="w3-third w3-center">
+            <img src="../assets/images/screenshot2.png" height="400" width="500">
+        </div>
+    </div>
+</div>
+
+
+<!-- Art Design Section -->
+<div class="w3-row-padding w3-black w3-padding-64 w3-container">
+    <div class="w3-content">
+        <div class="w3-third w3-left">
+            <img src="../assets/images/screenshot1.png" height="400" width="600">
+        </div>
+        <div class="w3-padding-30 w3-third w3-right">
+        <div class="w3-twothird">
+
+            <h1>Art and Visual Design</h1>
+            <h5 class="w3-padding-30">
+                The art of Deep Space Outlaw is inspired by famous
+                space-themed games of the past such as Galaga and Space Invaders.
+            </h5>
+
+            <p class="w3-text-grey"></p>
+        </div>
+    </div>
+</div>
+
+<!-- Technical Design Section -->
+    <div class="w3-row-padding w3-padding-64 w3-container w3-black">
+        <div class="w3-content">
+            <div class="w3-third w3-left">
+                <img src="../assets/images/phaser-header.png" height="400" width="600">
+            </div>
+            <div class="w3-padding-30 w3-third w3-right">
+                <div class="w3-twothird">
+
+                    <h1>Art and Visual Design</h1>
+                    <h5 class="w3-padding-30">
+                        This spaceGame has been developed using JavaScript with the Phaser 3 spaceGame framework. This allows spaceGame mechanics and features to be implemented into a website generated with HTML and CSS.
+                        As such the JetBrains Webstorm development environment was used to bring these systems together, providing an efficient workflow for implementing the spaceGame foundations and structure.
+                    </h5>
+
+                    <p class="w3-text-white"></p>
+                </div>
+            </div>
+        </div>
+
+        <div class="w3-container w3-black w3-center w3-opacity w3-padding-64">
+            <h1 class="w3-margin w3-xlarge"></h1>
+        </div>
+    </div>
+</div>
+</body>
+</html>
